@@ -1,0 +1,25 @@
+@media all and(max-width: 1000px){
+.Dino img{
+	height:200px; 
+	width: 200px
+}
+}
+
+@media all and (max-width: 670px){
+.Dino img{
+	width: 99.9%;
+	height:75%; 
+}
+.container{
+	width:100%;
+}
+.Aldino button{
+	margin:0 auto;
+}
+footer{
+	margin-top: 2rem
+}
+.modalIsOpen{
+	margin:4rem auto; 
+}
+}
