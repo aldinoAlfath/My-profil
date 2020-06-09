@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aldinoAlfath/My-profil.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/aldinoAlfath/My-profil.git/static/js/main.1e12fb7e.chunk.js",
+    "main.js.map": "/aldinoAlfath/My-profil.git/static/js/main.1e12fb7e.chunk.js.map",
+    "runtime-main.js": "/aldinoAlfath/My-profil.git/static/js/runtime-main.5de0a445.js",
+    "runtime-main.js.map": "/aldinoAlfath/My-profil.git/static/js/runtime-main.5de0a445.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/aldinoAlfath/My-profil.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.15268dca.chunk.js": "/aldinoAlfath/My-profil.git/static/js/2.15268dca.chunk.js",
+    "static/js/2.15268dca.chunk.js.map": "/aldinoAlfath/My-profil.git/static/js/2.15268dca.chunk.js.map",
+    "index.html": "/aldinoAlfath/My-profil.git/index.html",
+    "precache-manifest.5e0ccf34bac6c678f47fd57e6d8609ff.js": "/aldinoAlfath/My-profil.git/precache-manifest.5e0ccf34bac6c678f47fd57e6d8609ff.js",
+    "service-worker.js": "/aldinoAlfath/My-profil.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/aldinoAlfath/My-profil.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/aldinoAlfath/My-profil.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.15268dca.chunk.js.LICENSE.txt": "/aldinoAlfath/My-profil.git/static/js/2.15268dca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5de0a445.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.15268dca.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1e12fb7e.chunk.js"
+  ]
+}
